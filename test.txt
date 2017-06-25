@@ -1,0 +1,20 @@
+A:hello,A
+B:hello,B
+A:nice to meet you!
+B:nice to meet you, too!
+A:let's go to play football!
+B:OK, let's go!
+**************************************
+A:hello,A
+B:hello,B
+A:Are you OK?
+B:yes, I'm OK, thank you.
+A:Do you want to eat something?
+B:yes, I'm hungry, let's go to eat.
+**************************************
+A:hello,A
+B:hello,B
+A:How are you?
+B:I'm fine, thank you.
+A:where will you go?
+B:I'm not sure, I just need keep walking.
